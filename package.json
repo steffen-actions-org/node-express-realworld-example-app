@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "jest": "^26.6.3",
-    "newman": "^3.8.2",
+    "newman": "^5.2.2",
     "nodemon": "^1.11.0",
     "standard": "^16.0.3"
   }
